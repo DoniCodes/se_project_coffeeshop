@@ -235,9 +235,6 @@
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
-}
-
-.form__label_checkbox-text {
   font-style: normal;
   font-weight: 500;
 }
