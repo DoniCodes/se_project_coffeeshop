@@ -1,7 +1,7 @@
 .reservation {
   padding: 100px 0px 120px;
   background-color: #d9e7ff;
-  background-image: url(/images/background_reservation.svg);
+  background-image: url(../images/background_reservation.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -94,7 +94,7 @@
 
 .form__checkbox {
   background-color: #2f80ed;
-  background-image: url(/images/check.svg);
+  background-image: url(../images/check.svg);
   margin: 0 12px 0 0;
   width: 20px;
   height: 20px;

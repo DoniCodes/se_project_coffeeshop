@@ -1,6 +1,6 @@
 .header {
   background-color: #fff;
-  background-image: url(/images/background_header.svg);
+  background-image: url(../images/background_header.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -27,7 +27,7 @@
 
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif", Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-weight: normal;
   line-height: 72px;
@@ -37,7 +37,7 @@
 .header__description {
   max-width: 683px;
   margin: 28px 0 0;
-  font-family: "Noto Serif, Times New Roman, serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -63,7 +63,7 @@
 
 .header__paragraph {
   margin: 0;
-  font-family: "Inter, Arial, sans-serif";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 20px;
