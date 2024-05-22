@@ -33,38 +33,8 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  gap: 100px;
+  padding: 0;
   margin: 100px auto 0;
   list-style: none;
-}
-
-.card {
-  width: 540px;
-  margin: 0 100px 100px 0;
-  box-sizing: border-box;
-}
-
-.card__title {
-  margin: 0 0 32px 0;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-}
-
-.card__list {
-}
-
-.card__list-item {
-  display: flex;
-  margin: 0 0 16px 0;
-  font-family: "Noto Serif", Times New Roman, serif;
-  font-weight: normal;
-  font-style: normal;
-}
-
-.card__list-divider {
-  display: flex;
-  flex-grow: 2;
-  border-bottom: 1px solid #838383;
 }
