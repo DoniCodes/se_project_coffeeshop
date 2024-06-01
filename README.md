@@ -25,6 +25,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - I plan on having the social links got my own respective platforms when clicked on.
 - I plan on making the "Book a table" form actually work 100% once I learn JS.
 
-##Github Page URL
+## Github Page URL
 
 - https://donicodes.github.io/se_project_coffeeshop/
